@@ -1,0 +1,13 @@
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.exe
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.deps.json
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.runtimeconfig.json
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.runtimeconfig.dev.json
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.dll
+E:\проект на c#\Replay3\Replay3\bin\Debug\netcoreapp3.1\Replay3.pdb
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.GeneratedMSBuildEditorConfig.editorconfig
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.AssemblyInfoInputs.cache
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.AssemblyInfo.cs
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.csproj.CoreCompileInputs.cache
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.dll
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.pdb
+E:\проект на c#\Replay3\Replay3\obj\Debug\netcoreapp3.1\Replay3.genruntimeconfig.cache
